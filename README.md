@@ -1,6 +1,6 @@
-# runnanmarket
+# Projeto Final
 
-A new Flutter project.
+Projeto final utilizando a linguagem Flutter para criar ua aplicação de loja virtual de eletrônicos para Mobile Device.
 
 ## Getting Started
 
