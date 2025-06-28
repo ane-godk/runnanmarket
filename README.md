@@ -1,6 +1,6 @@
 # Projeto Final
 
-Projeto final utilizando a linguagem Flutter para criar ua aplicação de loja virtual de eletrônicos para Mobile Device.
+Projeto final utilizando a linguagem Flutter para criar uma aplicação de loja virtual de eletrônicos para Mobile Device.
 
 ## Getting Started
 
